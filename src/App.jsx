@@ -8,7 +8,7 @@ import './App.css'
 
 import ViewContactDetails from './components/ViewContactDetails';
 import EditSection from './components/EditSection';
-import AddContact from './components/addContact';
+import AddContact from './components/AddContact';
 
 function App() {
   const [contacts, updateContacts] = useState([])
